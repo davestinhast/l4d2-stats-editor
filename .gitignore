@@ -1,0 +1,16 @@
+# PyInstaller build artifacts
+build/
+__pycache__/
+*.pyc
+*.pyo
+
+# Diagnostic/test files from development
+d.cs
+d.exe
+diag.cs
+diag.exe
+diag2.cs
+diag2.exe
+
+# PyInstaller spec (auto-generated, not needed)
+*.spec
